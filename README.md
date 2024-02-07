@@ -1,15 +1,15 @@
 <h3 align=center> Hi there, I'm Emerson Pereira :man_technologist: 👋 </h3>
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/emersonolipe/">
+  <a href="https://www.linkedin.com/in/emersonope/">
     <img src="https://img.shields.io/badge/Connect%20on-Linkedin-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
  <!-- <a href="https://instagram.com/emersonolipe/">
     <img src="https://img.shields.io/badge/Follow%20me-Instagram-E4405F?style=for-the-badge&logo=instagram" alt="instagram"/>
   </a> -->
-  <a href="https://emersonolipe.vercel.app/">
+  <!-- <a href="https://emersonolipe.vercel.app/">
     <img src="https://img.shields.io/badge/check%20out%20my-website-333333?style=for-the-badge&logo=leaflet" alt="my website"/>
-  </a>
+  </a>-->
 </p>
 
 ```
